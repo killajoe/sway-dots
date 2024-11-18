@@ -1,0 +1,33 @@
+2024-11-14 19:56:58,900 INFO: Azote v1.13.1
+2024-11-14 19:56:58,900 INFO: Lang: 'de_DE'
+2024-11-14 19:56:58,900 INFO: 63 translation phrases found in 'de_DE'
+2024-11-14 19:56:58,903 INFO: Output found: {'name': 'DP-3', 'x': 0, 'y': 0, 'width': 1920, 'height': 1080, 'generic-name': 'AOC 27B2F1G5 VAFP6HA000090'}
+2024-11-14 19:56:58,904 INFO: Output found: {'name': 'DP-1', 'x': 1920, 'y': 0, 'width': 1920, 'height': 1080, 'generic-name': 'AOC 27B2F1G5 VAFNBHA005533'}
+2024-11-14 19:56:58,934 INFO: Creating initial settings
+2024-11-14 19:56:58,935 INFO: Image sorting: new
+2024-11-14 19:56:58,935 INFO: Custom display: None
+2024-11-14 19:56:58,935 INFO: Old thumbnail width: None
+2024-11-14 19:56:58,935 INFO: /home/joe/.config/azote/azoterc file not found, creating...
+2024-11-14 19:56:58,935 INFO: /home/joe/.config/azote/azoterc file loaded
+2024-11-14 19:56:58,935 INFO: Thumbnail size: (240, 135)
+2024-11-14 19:56:58,935 INFO: Number of columns: 3
+2024-11-14 19:56:58,935 INFO: Palette quality: 10 (10 by default, the less, the better & slower)
+2024-11-14 19:56:58,935 INFO: Files tracking interval: 5 seconds
+2024-11-14 19:56:58,935 INFO: Screen measurement delay: 300 ms
+2024-11-14 19:56:58,935 WARNING: New thumbnail width: 240, clearing existing thumbnails!
+2024-11-14 19:56:58,937 INFO: Image associations: {'jpeg': {('Profilverwaltung öffnen', '/usr/lib/firefox/firefox'), ('Swappy', 'swappy')}, 'jpg': {('Profilverwaltung öffnen', '/usr/lib/firefox/firefox'), ('Swappy', 'swappy')}, 'png': [('Profilverwaltung öffnen', '/usr/lib/firefox/firefox'), ('Swappy', 'swappy')], 'webp': [('Profilverwaltung öffnen', '/usr/lib/firefox/firefox')]}
+2024-11-14 19:56:58,968 INFO: Color picker: imagemagick library found
+2024-11-14 19:56:58,969 INFO: Color picker/Wayland: grim package found
+2024-11-14 19:56:58,972 INFO: Color picker/Wayland: slurp package found
+2024-11-14 19:56:58,972 INFO: Pick color from screen feature enabled
+2024-11-14 19:56:58,972 INFO: Environment: {'send2trash': True, 'yaml': True, 'app_indicator': True, 'wm': 'sway'}
+2024-11-14 19:56:58,972 INFO: Alacritty config file: not found
+2024-11-14 19:56:58,972 INFO: ~/.Xresources file not found
+2024-11-14 19:56:59,034 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_768x1024_Portrait.png -> e7fbb1a176b3c87d3b5e1ddc42179708.png
+2024-11-14 19:56:59,070 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_2048x1536.png -> ee3c9b734d6a198c6ce6892a0c1cde0d.png
+2024-11-14 19:56:59,092 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_768x1024.png -> 695ab214589d3a5a425b700c08414215.png
+2024-11-14 19:56:59,105 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1136x640_Portrait.png -> 8a9c5e5ab9add0ac2192e0ab4699325a.png
+2024-11-14 19:56:59,127 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1366x768.png -> 8ace5ebf5ec9ae66a4dfce215fe66e1c.png
+2024-11-14 19:56:59,144 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1136x640.png -> 9a78d47e449284734910570b7fdf53bc.png
+2024-11-14 19:56:59,170 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png -> 9839f4a7cbf1ccf008f95982fdcf879c.png
+2024-11-14 19:56:59,197 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_2048x1536_Portrait.png -> 25de5f2a70fc61051874c31335847665.png
